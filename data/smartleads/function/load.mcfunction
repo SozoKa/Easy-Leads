@@ -8,7 +8,7 @@
 # A little credit is still apreciated :)
 # 
 
-tellraw @a[tag=convention.debug] {"text":"§7■§6§l SmartLeads §8§l| §7By §cSozoKa §8- §7running!"}
+tellraw @a[tag=convention.debug] {"text":"§7■§6§l Easy Leads §8§l| §7By §cSozoKa §8- §7running!"}
 
 scoreboard objectives add smartleads dummy
 

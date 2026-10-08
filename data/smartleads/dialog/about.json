@@ -1,12 +1,12 @@
 {
   "type": "minecraft:multi_action",
-  "title": "SmartLeads",
+  "title": "Easy Leads",
   "body": [
     {
       "type": "minecraft:plain_message",
       "contents": [
         {
-          "text": "v1.1.1",
+          "text": "v1.1.2",
           "bold": true
         },
         "\n",
@@ -56,10 +56,10 @@
   "actions": [
     {
       "label": "Modrinth",
-      "tooltip": "§7§ohttps://modrinth.com/datapack/smartleads",
+      "tooltip": "§7§ohttps://modrinth.com/datapack/better-leads",
       "action": {
         "type": "open_url",
-        "url": "https://modrinth.com/datapack/smartleads"
+        "url": "https://modrinth.com/datapack/better-leads"
       }
     },
     {
@@ -75,10 +75,10 @@
         "translate": "sozoka.issues",
         "fallback": "Issues"
       },
-      "tooltip": "§7§ohttps://github.com/SozoKa/SmartLeads/issues",
+      "tooltip": "§7§ohttps://github.com/SozoKa/Better-Leads/issues",
       "action": {
         "type": "open_url",
-        "url": "https://github.com/SozoKa/SmartLeads/issues"
+        "url": "https://github.com/SozoKa/Better-Leads/issues"
       }
     },
     {

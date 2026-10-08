@@ -1,13 +1,18 @@
 {
   "type": "minecraft:notice",
   "title": [
-    "SmartLeads - ",
+    "Easy Leads - ",
     {
       "translate": "sozoka.changelog",
       "fallback": "Changelog"
     }
   ],
   "body": [
+    {
+      "type": "minecraft:plain_message",
+      "contents": "§l1.1.2 | 1.21.6 - 26.3 (2026/10/08)§7\n- Renamed to \"Easy Leads\"\n- Made leashed entity teleport to leasher only if leasher is a player\n- Do not teleport entity if target block is not \"air\" anymore",
+      "width": 300
+    },
     {
       "type": "minecraft:plain_message",
       "contents": "§l1.1.1 | 1.21.6 - 26.3 (2026/09/15)§7\n- Renamed function 'smartleads:settings' to 'smartleads:-settings'\n- Renamed function 'smartleads:uninstall' to 'smartleads:-uninstall'\n- Removed the info advancements\n- Added a menu in the pause menu with infos, links, changelog, ...\n- Changed the settings dialog to adapt to the changes",

@@ -1,4 +1,4 @@
-# SmartLeads
+# Easy Leads
 Improves lead behavior: leashed mobs follow more smoothly, jump over obstacles, and break leads far less often, making animal transport simple and reliable.
 
 ## ⚙️ Server side!
